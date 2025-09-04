@@ -1,0 +1,28 @@
+body{
+    background: lightgray;
+}
+
+.page{
+    margin:0 auto;
+    font-size: 25px;
+    background:white 
+}
+
+.post-title{
+    display: block;
+    margin: 0 auto;
+    background: white;
+    
+}
+
+img{
+    margin:0 auto;
+    height: 600px;
+    width: 600px;
+}
+
+.caption{
+    padding-top: 5px;
+    font-size: 16px;
+    
+}
